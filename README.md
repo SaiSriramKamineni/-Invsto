@@ -1,4 +1,4 @@
-# HDFC Stock Price Prediction using ARIMA and XGBoost and LSTM
+# HDFC Stock Price Prediction using ARIMA, XGBoost and LSTM
 
 This project predicts the stock price of HDFC Bank using three models: ARIMA (Auto-Regressive Integrated Moving Average) and XGBoost (Extreme Gradient Boosting) and LSTM (Long Short-Term Memory). The dataset contains historical stock prices, and we perform the following tasks:
 
